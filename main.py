@@ -12,7 +12,7 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
 # Font Credit: https://www.fontspace.com/pixeboy-font-f43730
-FONT = pygame.font.Font('retro_font.ttf', 30)
+FONT = pygame.font.Font('static/retro_font.ttf', 30)
 
 
 def iterative_reverse_quick_sort(arr, l, h):
