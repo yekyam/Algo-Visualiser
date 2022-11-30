@@ -12,6 +12,8 @@ It supports three algorithms:
 
 ## Usage
 
+To **run**, install Pygame and run `main.py`.
+
 To **start** or **stop** the sorting animation, simply click the  **space bar**. 
 
 To **select Insertion Sort**, click **1** on your keyboard.
